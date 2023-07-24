@@ -1,4 +1,5 @@
-### Hello everyone, my name is David Beilin, currently working as C++ Junior developer
+### Hello everyone, my name is David Beilin. I am a student of MIPT.
+### Currently working as C++ Junior developer
 ### 📍 I'm from Perm, Russia
 
 
