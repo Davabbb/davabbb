@@ -1,5 +1,5 @@
 ### Hello everyone, my name is David Beilin. I am a student of MIPT.
-### Currently working as C++ Junior developer
+### Currently working as Robotics software engineer
 ### 📍 I'm from Perm, Russia
 
 
